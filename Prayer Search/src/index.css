@@ -15,7 +15,7 @@ header h1 {
   text-align: center;
 }
 /* Search bar */
-.search-container {
+.search-container form {
   display: flex;
   justify-content: center;
   margin: 50px 0px 0px 0px;
@@ -34,6 +34,14 @@ header h1 {
 .search-container form input:focus {
   border: 3px solid #6B7A8F;
   outline: none;
-    transition: all 0.1s ease;
+  transition: all 0.1s ease;
 
+}
+
+/* prayers */
+
+.search-container .prayers-container .prayer-card {
+  
+  width: 90%;
+  margin: 0 auto;
 }

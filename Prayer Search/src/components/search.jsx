@@ -16,8 +16,13 @@ export default function Search () {
             </form>
             <div className='prayers-container'>
                    {filteredPrayers.map((prayer, i) => (
-        
-                <h2>{prayer.title}</h2>
+                    
+                <div className='prayer-card'>
+                    <h2>{prayer.title}</h2>
+                    <p>{prayer.category}</p>
+                    <p>{prayer.description}</p>
+                </div>
+                
             ))}
             </div>
         </section>
