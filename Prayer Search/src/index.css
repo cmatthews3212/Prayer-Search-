@@ -1,11 +1,28 @@
+/* header */
+body {
+  margin: 0;
+}
+header {
+  margin: 0px;
+  background-color: #F7F0EA;
+  padding: 10px;
+    box-shadow: 0 5px 15px -2px lightgray	;
+
+}
+
+header h1 {
+  font-size: 25px;
+  text-align: center;
+}
+/* Search bar */
 .search-container {
   display: flex;
   justify-content: center;
-  margin: 20px 0px 0px 0px;
+  margin: 50px 0px 0px 0px;
 }
 
 .search-container form input {
-  width: 50vw;
+  width: 70vw;
   height: 35px;
   font-size: 16px;
   padding: 5px 10px 5px 10px;
