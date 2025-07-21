@@ -1,0 +1,22 @@
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0px 0px 0px;
+}
+
+.search-container form input {
+  width: 50vw;
+  height: 35px;
+  font-size: 16px;
+  padding: 5px 10px 5px 10px;
+  border-radius: 50px;
+  border: 3px solid #D8A7B1;
+  transition: all 0.1s ease;
+}
+
+.search-container form input:focus {
+  border: 3px solid #6B7A8F;
+  outline: none;
+    transition: all 0.1s ease;
+
+}
