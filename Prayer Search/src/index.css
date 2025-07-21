@@ -1,6 +1,7 @@
 /* header */
 body {
   margin: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 header {
   margin: 0px;
@@ -11,7 +12,7 @@ header {
 }
 
 header h1 {
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
 }
 /* Search bar */
@@ -39,9 +40,35 @@ header h1 {
 }
 
 /* prayers */
+.search-container .prayers-container {
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
 
 .search-container .prayers-container .prayer-card {
   
-  width: 90%;
+  width: 85%;
   margin: 0 auto;
+  background-color: #F7F0EA;
+  padding: 15px;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+#title {
+  text-decoration: underline;
+}
+#title, #categories {
+  text-align: center;
+}
+
+#categories {
+  background-color: #D8A7B1;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 50px;
+
+}
+
+#book, #page {
+  font-weight: 600;
 }

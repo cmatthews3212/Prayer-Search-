@@ -5,7 +5,7 @@ export default function Search () {
 
     const filteredPrayers = prayerData.filter(prayer => {
         const titleMatch = prayer.title.toLowerCase().includes(searchQuery.toLowerCase());
-        const categoryMatch = prayer.category.toLowerCase().includes(searchQuery.toLowerCase())
+        const categoryMatch = prayer.categories.toLowerCase().includes(searchQuery.toLowerCase())
         return titleMatch || categoryMatch
     })
 
@@ -17,10 +17,12 @@ export default function Search () {
             <div className='prayers-container'>
                    {filteredPrayers.map((prayer, i) => (
                     
-                <div className='prayer-card'>
-                    <h2>{prayer.title}</h2>
-                    <p>{prayer.category}</p>
-                    <p>{prayer.description}</p>
+                <div key={prayer.id} className='prayer-card'>
+                    <h2 id="title">{prayer.title}</h2>
+                    <p id="categories">{prayer.categories}</p>
+                    <p id="book">Book: {prayer.book}</p>
+                    <p id="page">Page: {prayer.page}</p>
+                    <p id="description">{prayer.description}</p>
                 </div>
                 
             ))}
