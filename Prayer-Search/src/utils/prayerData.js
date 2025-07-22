@@ -449,7 +449,7 @@ const prayerData = [
     },
     {
         id: "58",
-        title: "A Liturgy vbefore a Meal Eaten Alone",
+        title: "A Liturgy before a Meal Eaten Alone",
         categories: "Meals, Lonliness",
         book: "Every Moment Holy: Volume I",
         page: "156",
