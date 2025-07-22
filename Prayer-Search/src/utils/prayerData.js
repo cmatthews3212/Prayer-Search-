@@ -855,6 +855,694 @@ const prayerData = [
         page: "273",
         description: "A prayer of praise to King Jesus."
     },
+    {
+        id: "109",
+        title: "Rest for Your Soul",
+        categories: "Rest",
+        book: "Prayers of Rest",
+        page: "20",
+        description: "A prayer of to pray to rest in Jesus."
+    },
+    {
+        id: "110",
+        title: "God is Our Refuge",
+        categories: "Strength, Rest",
+        book: "Prayers of Rest",
+        page: "21",
+        description: "A prayer of to pray to find strength in God."
+    },
+    {
+        id: "111",
+        title: "Resting in God's Salvation",
+        categories: "Salvation, Rest",
+        book: "Prayers of Rest",
+        page: "22",
+        description: "A prayer of to pray to rest in God's salvation."
+    },
+    {
+        id: "112",
+        title: "Resting in the Finished Work of Jesus",
+        categories: "Salvation, Jesus, Rest",
+        book: "Prayers of Rest",
+        page: "23",
+        description: "A prayer of to pray to rest Jesus' finished work."
+    },
+    {
+        id: "113",
+        title: "Resting with the Good Shepherd",
+        categories: "Shepherd, Rest",
+        book: "Prayers of Rest",
+        page: "24",
+        description: "A prayer of to pray to rest as a follower of Christ."
+    },
+    {
+        id: "114",
+        title: "Resting in God's Sovereignty",
+        categories: "Rest",
+        book: "Prayers of Rest",
+        page: "25",
+        description: "A prayer of to pray to rest in God's sovereignty."
+    },
+    {
+        id: "115",
+        title: "Resting in the Spirit's Intercession",
+        categories: "Prayer, Spirit",
+        book: "Prayers of Rest",
+        page: "26",
+        description: "A prayer about the Holy Spirit's intercession."
+    },
+    {
+        id: "116",
+        title: "Resting in God's Power",
+        categories: "Power, Rest",
+        book: "Prayers of Rest",
+        page: "27",
+        description: "A prayer to rest in God's power."
+    },
+    {
+        id: "117",
+        title: "Resting in Jesus' Love",
+        categories: "Love, Jesus, Rest",
+        book: "Prayers of Rest",
+        page: "28",
+        description: "A prayer to rest in the love of Jesus."
+    },
+    {
+        id: "118",
+        title: "Resting in Jesus' Reign",
+        categories: "Jesus, Reign, Rest",
+        book: "Prayers of Rest",
+        page: "29",
+        description: "A prayer to rest in the reign of Jesus."
+    },
+    {
+        id: "119",
+        title: "Resting in the Assurance of a Beautiful Future",
+        categories: "Hope, Future, Rest",
+        book: "Prayers of Rest",
+        page: "30",
+        description: "A prayer about the hope of a beautiful future with God."
+    },
+    {
+        id: "120",
+        title: "Returning to Rest",
+        categories: "Rest",
+        book: "Prayers of Rest",
+        page: "31",
+        description: "A prayer about returning to a state of rest in God."
+    },
+    {
+        id: "121",
+        title: "Teach Us to Pray",
+        categories: "Prayer",
+        book: "Prayers of Rest",
+        page: "34",
+        description: "A prayer asking God to teach us how to pray."
+    },
+    {
+        id: "122",
+        title: "Holy Father in Heaven",
+        categories: "Prayer, Father",
+        book: "Prayers of Rest",
+        page: "35",
+        description: "A prayer acknowledging God as our Holy Father."
+    },
+    {
+        id: "123",
+        title: "God's Kingdom on Earth",
+        categories: "Prayer, Kingdom",
+        book: "Prayers of Rest",
+        page: "36",
+        description: "A prayer for God's kingdom to come on Earth."
+    },
+    {
+        id: "124",
+        title: "Daily Dependence on God",
+        categories: "Prayer, Dependence",
+        book: "Prayers of Rest",
+        page: "37",
+        description: "A prayer for daily dependence on God."
+    },
+    {
+        id: "125",
+        title: "Forgiven to Forgive",
+        categories: "Prayer, Forgiveness",
+        book: "Prayers of Rest",
+        page: "38",
+        description: "A prayer about being forgiven and forgiving others."
+    },
+    {
+        id: "126",
+        title: "Delivered from Evil",
+        categories: "Prayer, Deliverance",
+        book: "Prayers of Rest",
+        page: "39",
+        description: "A prayer for deliverance from evil."
+    },
+    {
+        id: "127",
+        title: "Withdrawing to Pray",
+        categories: "Prayer",
+        book: "Prayers of Rest",
+        page: "40",
+        description: "A prayer about the importance of withdrawing to pray."
+    },
+    {
+        id: "128",
+        title: "Morning Whispers",
+        categories: "Prayer, Morning",
+        book: "Prayers of Rest",
+        page: "41",
+        description: "A prayer for the morning."
+    },
+    {
+        id: "129",
+        title: "Pleased to Reveal",
+        categories: "Prayer, Revelation",
+        book: "Prayers of Rest",
+        page: "42",
+        description: "A prayer about God's pleasure in revealing Himself."
+    },
+    {
+        id: "130",
+        title: "Your Will Be Done",
+        categories: "Prayer, Surrender",
+        book: "Prayers of Rest",
+        page: "43",
+        description: "A prayer for God's will to be done."
+    },
+    {
+        id: "131",
+        title: "One with God and One Another",
+        categories: "Prayer, Unity",
+        book: "Prayers of Rest",
+        page: "44",
+        description: "A prayer for unity with God and fellow believers."
+    },
+    {
+        id: "132",
+        title: "Being with Jesus",
+        categories: "Prayer, Jesus",
+        book: "Prayers of Rest",
+        page: "45",
+        description: "A prayer about the desire to be with Jesus."
+    },
+    {
+        id: "133",
+        title: "King of Kings",
+        categories: "Jesus, Kingship, Worship",
+        book: "Prayers of Rest",
+        page: "48",
+        description: "A prayer to worship Jesus as the King of Kings."
+    },
+    {
+        id: "134",
+        title: "Light of the World",
+        categories: "Jesus, Light, Hope",
+        book: "Prayers of Rest",
+        page: "49",
+        description: "A prayer acknowledging Jesus as the Light of the World."
+    },
+    {
+        id: "135",
+        title: "Good Shepherd",
+        categories: "Jesus, Shepherd, Guidance",
+        book: "Prayers of Rest",
+        page: "50",
+        description: "A prayer to the Good Shepherd for guidance and care."
+    },
+    {
+        id: "136",
+        title: "Bread of Life",
+        categories: "Jesus, Sustenance, Satisfaction",
+        book: "Prayers of Rest",
+        page: "51",
+        description: "A prayer to Jesus, the Bread of Life, for spiritual nourishment."
+    },
+    {
+        id: "137",
+        title: "Man of Sorrows",
+        categories: "Jesus, Suffering, Comfort",
+        book: "Prayers of Rest",
+        page: "52",
+        description: "A prayer to Jesus, the Man of Sorrows, who understands our pain."
+    },
+    {
+        id: "138",
+        title: "The Resurrection and the Life",
+        categories: "Jesus, Resurrection, Hope, Life",
+        book: "Prayers of Rest",
+        page: "53",
+        description: "A prayer to Jesus, who is the Resurrection and the Life."
+    },
+    {
+        id: "139",
+        title: "Prince of Peace",
+        categories: "Jesus, Peace",
+        book: "Prayers of Rest",
+        page: "54",
+        description: "A prayer to Jesus, the Prince of Peace."
+    },
+    {
+        id: "140",
+        title: "Lion of Judah",
+        categories: "Jesus, Power, Majesty",
+        book: "Prayers of Rest",
+        page: "55",
+        description: "A prayer to the Lion of Judah, acknowledging His power."
+    },
+    {
+        id: "141",
+        title: "Immanuel",
+        categories: "Jesus, Presence, God with us",
+        book: "Prayers of Rest",
+        page: "56",
+        description: "A prayer to Immanuel, celebrating God's presence with us."
+    },
+    {
+        id: "142",
+        title: "Jesus",
+        categories: "Jesus, Salvation",
+        book: "Prayers of Rest",
+        page: "57",
+        description: "A prayer to the name of Jesus, our savior."
+    },
+    {
+        id: "143",
+        title: "Jesus Doesn't Give Up",
+        categories: "Jesus, Love, Perseverance",
+        book: "Prayers of Rest",
+        page: "58",
+        description: "A prayer about Jesus' persevering love."
+    },
+    {
+        id: "144",
+        title: "Jesus Protects His Own",
+        categories: "Jesus, Protection",
+        book: "Prayers of Rest",
+        page: "59",
+        description: "A prayer about Jesus' protection over His followers."
+    },
+    {
+        id: "145",
+        title: "Jesus Loves His Enemies",
+        categories: "Jesus, Love, Forgiveness",
+        book: "Prayers of Rest",
+        page: "60",
+        description: "A prayer reflecting on Jesus' love for His enemies."
+    },
+    {
+        id: "146",
+        title: "Jesus Keeps No Record of Wrongs",
+        categories: "Jesus, Forgiveness, Grace",
+        book: "Prayers of Rest",
+        page: "61",
+        description: "A prayer about Jesus' forgiveness and grace."
+    },
+    {
+        id: "147",
+        title: "Jesus Rejoices in the Truth",
+        categories: "Jesus, Truth",
+        book: "Prayers of Rest",
+        page: "62",
+        description: "A prayer about Jesus as the embodiment of truth."
+    },
+    {
+        id: "148",
+        title: "Jesus Is Not Self-Seeking",
+        categories: "Jesus, Humility, Love",
+        book: "Prayers of Rest",
+        page: "63",
+        description: "A prayer on Jesus' selfless love."
+    },
+    {
+        id: "149",
+        title: "Jesus' Love Forgives",
+        categories: "Jesus, Love, Forgiveness",
+        book: "Prayers of Rest",
+        page: "64",
+        description: "A prayer about the forgiving nature of Jesus' love."
+    },
+    {
+        id: "150",
+        title: "Jesus Offers Hope",
+        categories: "Jesus, Hope, Salvation",
+        book: "Prayers of Rest",
+        page: "65",
+        description: "A prayer on the hope that Jesus offers to all."
+    },
+    {
+        id: "151",
+        title: "Jesus Sacrificed Everything",
+        categories: "Jesus, Sacrifice, Love",
+        book: "Prayers of Rest",
+        page: "66",
+        description: "A prayer reflecting on the ultimate sacrifice of Jesus."
+    },
+    {
+        id: "152",
+        title: "Jesus' Love Never Fails",
+        categories: "Jesus, Love, Resurrection",
+        book: "Prayers of Rest",
+        page: "67",
+        description: "A prayer on the unfailing love of Jesus, confirmed by His resurrection."
+    },
+    {
+        id: "153",
+        title: "Empowered Witnesses",
+        categories: "Holy Spirit, Witnessing, Power",
+        book: "Prayers of Rest",
+        page: "68",
+        description: "A prayer to be an empowered witness for Jesus."
+    },
+    {
+        id: "154",
+        title: "Poured-Out Spirit",
+        categories: "Holy Spirit, Pentecost",
+        book: "Prayers of Rest",
+        page: "69",
+        description: "A prayer celebrating the outpouring of the Holy Spirit."
+    },
+    {
+        id: "155",
+        title: "Ordinary People with Jesus",
+        categories: "Discipleship, Jesus, Transformation",
+        book: "Prayers of Rest",
+        page: "70",
+        description: "A prayer about how being with Jesus transforms ordinary people."
+    },
+    {
+        id: "156",
+        title: "Unstoppable",
+        categories: "God's Will, Sovereignty",
+        book: "Prayers of Rest",
+        page: "71",
+        description: "A prayer acknowledging that God's work is unstoppable."
+    },
+    {
+        id: "157",
+        title: "Sent",
+        categories: "Mission, Calling",
+        book: "Prayers of Rest",
+        page: "72",
+        description: "A prayer about being sent by God on His mission."
+    },
+    {
+        id: "158",
+        title: "Jesus Heals You",
+        categories: "Jesus, Healing",
+        book: "Prayers of Rest",
+        page: "73",
+        description: "A prayer acknowledging the healing power of Jesus."
+    },
+    {
+        id: "159",
+        title: "I Now Realize",
+        categories: "Revelation, God's Nature",
+        book: "Prayers of Rest",
+        page: "74",
+        description: "A prayer about the realization that God shows no favoritism."
+    },
+    {
+        id: "160",
+        title: "The Spirit Wouldn't Let Me",
+        categories: "Holy Spirit, Guidance",
+        book: "Prayers of Rest",
+        page: "75",
+        description: "A prayer about being guided and redirected by the Holy Spirit."
+    },
+    {
+        id: "161",
+        title: "His Presence Is Our Protection",
+        categories: "God's Presence, Protection, Courage",
+        book: "Prayers of Rest",
+        page: "76",
+        description: "A prayer on finding protection and boldness in God's presence."
+    },
+    {
+        id: "162",
+        title: "May Jesus Be Lifted Up",
+        categories: "Jesus, Exaltation, Worship",
+        book: "Prayers of Rest",
+        page: "77",
+        description: "A prayer for the name of Jesus to be honored and exalted."
+    },
+    {
+        id: "163",
+        title: "Called by the Resurrected One",
+        categories: "Resurrection, Calling, Jesus",
+        book: "Prayers of Rest",
+        page: "80",
+        description: "A prayer about being called by the resurrected Jesus."
+    },
+    {
+        id: "164",
+        title: "The Fullness of Christ in Us",
+        categories: "Christ in us, Church, Fullness",
+        book: "Prayers of Rest",
+        page: "81",
+        description: "A prayer about the church being the fullness of Christ."
+    },
+    {
+        id: "165",
+        title: "Living As Those Who Never Die",
+        categories: "Eternal Life, Resurrection, Hope",
+        book: "Prayers of Rest",
+        page: "82",
+        description: "A prayer on living with the hope of eternal life."
+    },
+    {
+        id: "166",
+        title: "A Kingdom of Priests",
+        categories: "Kingdom, Priesthood of Believers",
+        book: "Prayers of Rest",
+        page: "83",
+        description: "A prayer about our identity as a kingdom of priests."
+    },
+    {
+        id: "167",
+        title: "An Anthem of Worship",
+        categories: "Worship, Praise, Jesus",
+        book: "Prayers of Rest",
+        page: "84",
+        description: "A prayer joining with all creation in worship to Jesus."
+    },
+    {
+        id: "168",
+        title: "An Everlasting Love",
+        categories: "Love, God's Love",
+        book: "Prayers of Rest",
+        page: "85",
+        description: "A prayer reflecting on God's everlasting love."
+    },
+    {
+        id: "169",
+        title: "Living in Christ",
+        categories: "Christ in us, Identity, Faith",
+        book: "Prayers of Rest",
+        page: "86",
+        description: "A prayer about our new life and identity in Christ."
+    },
+    {
+        id: "170",
+        title: "Knowing the Power and Presence of Jesus",
+        categories: "Jesus, Power, Presence, Resurrection",
+        book: "Prayers of Rest",
+        page: "87",
+        description: "A prayer to know Christ and the power of His resurrection."
+    },
+    {
+        id: "171",
+        title: "Raised with Christ",
+        categories: "Resurrection, New Life, Grace",
+        book: "Prayers of Rest",
+        page: "88",
+        description: "A prayer about being made alive and raised with Christ."
+    },
+    {
+        id: "172",
+        title: "Hidden with Christ",
+        categories: "Identity in Christ, Hope, Glory",
+        book: "Prayers of Rest",
+        page: "89",
+        description: "A prayer about our life being hidden with Christ in God."
+    },
+    {
+        id: "173",
+        title: "Working with Christ's Energy",
+        categories: "Work, Power, Christ in us",
+        book: "Prayers of Rest",
+        page: "90",
+        description: "A prayer about working with the energy Christ provides."
+    },
+    {
+        id: "174",
+        title: "God's Resurrected People",
+        categories: "Hope, New Creation, God's Presence",
+        book: "Prayers of Rest",
+        page: "91",
+        description: "A prayer about the future hope of dwelling with God as His people."
+    },
+    {
+        id: "175",
+        title: "Abide",
+        categories: "Abiding, Fruitfulness, Jesus",
+        book: "Prayers of Rest",
+        page: "92",
+        description: "A prayer on the importance of abiding in Christ to bear fruit."
+    },
+    {
+        id: "176",
+        title: "Love",
+        categories: "Fruit of the Spirit, Love",
+        book: "Prayers of Rest",
+        page: "93",
+        description: "A prayer to love others as Christ has loved us."
+    },
+    {
+        id: "177",
+        title: "Joy",
+        categories: "Fruit of the Spirit, Joy",
+        book: "Prayers of Rest",
+        page: "94",
+        description: "A prayer to be filled with inexpressible and glorious joy."
+    },
+    {
+        id: "178",
+        title: "Peace",
+        categories: "Fruit of the Spirit, Peace",
+        book: "Prayers of Rest",
+        page: "95",
+        description: "A prayer to receive and live in the peace of Christ."
+    },
+    {
+        id: "179",
+        title: "Patience",
+        categories: "Fruit of the Spirit, Patience",
+        book: "Prayers of Rest",
+        page: "96",
+        description: "A prayer for patience, rooted in the hope of the Lord's coming."
+    },
+    {
+        id: "180",
+        title: "Kindness",
+        categories: "Fruit of the Spirit, Kindness, Service",
+        book: "Prayers of Rest",
+        page: "97",
+        description: "A prayer to show kindness to others, as if to Jesus himself."
+    },
+    {
+        id: "181",
+        title: "Goodness",
+        categories: "Fruit of the Spirit, Goodness, Humility",
+        book: "Prayers of Rest",
+        page: "98",
+        description: "A prayer to live a good life through deeds done in humility."
+    },
+    {
+        id: "182",
+        title: "Faithfulness",
+        categories: "Fruit of the Spirit, Faithfulness",
+        book: "Prayers of Rest",
+        page: "99",
+        description: "A prayer to be a good and faithful servant."
+    },
+    {
+        id: "183",
+        title: "Gentleness",
+        categories: "Fruit of the Spirit, Gentleness",
+        book: "Prayers of Rest",
+        page: "100",
+        description: "A prayer for our gentleness to be evident to all."
+    },
+    {
+        id: "184",
+        title: "Self-Control",
+        categories: "Fruit of the Spirit, Self-Control, Grace",
+        book: "Prayers of Rest",
+        page: "101",
+        description: "A prayer to live a self-controlled life through God's grace."
+    },
+    {
+        id: "185",
+        title: "People of the Coming Kingdom",
+        categories: "Kingdom, Inheritance, Blessing",
+        book: "Prayers of Rest",
+        page: "102",
+        description: "A prayer about receiving our inheritance in God's kingdom."
+    },
+    {
+        id: "186",
+        title: "The Poor in Spirit",
+        categories: "Beatitudes, Humility, Kingdom",
+        book: "Prayers of Rest",
+        page: "103",
+        description: "A prayer for those who are poor in spirit."
+    },
+    {
+        id: "187",
+        title: "Those Who Mourn",
+        categories: "Beatitudes, Mourning, Comfort",
+        book: "Prayers of Rest",
+        page: "104",
+        description: "A prayer for those who mourn, that they will be comforted."
+    },
+    {
+        id: "188",
+        title: "The Meek",
+        categories: "Beatitudes, Meekness, Inheritance",
+        book: "Prayers of Rest",
+        page: "105",
+        description: "A prayer for the meek, who will inherit the earth."
+    },
+    {
+        id: "189",
+        title: "Those Who Hunger and Thirst for Righteousness",
+        categories: "Beatitudes, Righteousness, Satisfaction",
+        book: "Prayers of Rest",
+        page: "106",
+        description: "A prayer for those who hunger and thirst for righteousness."
+    },
+    {
+        id: "190",
+        title: "The Merciful",
+        categories: "Beatitudes, Mercy",
+        book: "Prayers of Rest",
+        page: "107",
+        description: "A prayer for the merciful, who will be shown mercy."
+    },
+    {
+        id: "191",
+        title: "The Pure in Heart",
+        categories: "Beatitudes, Purity, Holiness",
+        book: "Prayers of Rest",
+        page: "108",
+        description: "A prayer for the pure in heart, who will see God."
+    },
+    {
+        id: "192",
+        title: "The Peacemakers",
+        categories: "Beatitudes, Peace",
+        book: "Prayers of Rest",
+        page: "109",
+        description: "A prayer for the peacemakers, who will be called children of God."
+    },
+    {
+        id: "193",
+        title: "The Persecuted Because of Righteousness",
+        categories: "Beatitudes, Persecution, Righteousness",
+        book: "Prayers of Rest",
+        page: "110",
+        description: "A prayer for those persecuted for righteousness' sake."
+    },
+    {
+        id: "194",
+        title: "Rejoice and Be Glad",
+        categories: "Beatitudes, Joy, Persecution, Reward",
+        book: "Prayers of Rest",
+        page: "111",
+        description: "A prayer to rejoice in persecution, for our reward is in heaven."
+    }
     
 ]
 
