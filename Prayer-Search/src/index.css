@@ -45,6 +45,8 @@ header h1 {
   margin-bottom: 100px;
 }
 
+
+
 .search-container .prayers-container .prayer-card {
   
   width: 85%;
@@ -71,4 +73,20 @@ header h1 {
 
 #book, #page {
   font-weight: 600;
+}
+
+@media (min-width: 900px) {
+  .search-container .prayers-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+
+  .search-container .prayers-container .prayer-card {
+    width: 45%;
+  
+  }
 }

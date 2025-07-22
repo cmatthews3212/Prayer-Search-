@@ -1,7 +1,23 @@
 import prayerData from '../utils/prayerData.js'
-import { useState } from 'react';
+import { useState, useRef, useEffect } from 'react';
 export default function Search () {
       const [searchQuery, setSearchQuery] = useState('')
+
+      const inputRef = useRef(null)
+
+      useEffect(() => {
+        function handleClickOutside(event) {
+            if (inputRef.current && !inputRef.current.contains(event.target)) {
+                inputRef.current.blur()
+            }
+        }
+
+        document.addEventListener("mousedown", handleClickOutside);
+
+        return () => {
+            document.removeEventListener("mousedown", handleClickOutside)
+        }
+      }, [inputRef])
 
     const filteredPrayers = prayerData.filter(prayer => {
         const titleMatch = prayer.title.toLowerCase().includes(searchQuery.toLowerCase());
@@ -12,7 +28,7 @@ export default function Search () {
     return (
         <section className="search-container">
             <form>
-                <input type="text" id="search" name="search" placeholder="Search" onChange={(e) => setSearchQuery(e.target.value)}></input>
+                <input type="text" id="search" name="search" placeholder="Search" ref={inputRef} onChange={(e) => setSearchQuery(e.target.value)}></input>
             </form>
             <div className='prayers-container'>
                    {filteredPrayers.map((prayer, i) => (

@@ -104,12 +104,108 @@ const prayerData = [
         description: "A prayer to pray before washing your windows."
     },
     {
-        id: "14",
+        id: "15",
         title: "A Liturgy for Home Repairs",
         categories: "Homekeeping, Chores, Domestic",
         book: "Every Moment Holy: Volume I",
         page: "35",
         description: "A prayer to pray before fixing up your house."
+    },
+    {
+        id: "16",
+        title: "A Liturgy for Students & Scholars",
+        categories: "Students, School, Studying",
+        book: "Every Moment Holy: Volume I",
+        page: "38",
+        description: "A prayer to pray before studying."
+    },
+    {
+        id: "17",
+        title: "A Liturgy for Waiters & Watresses",
+        categories: "Work, Employment, Restaurant",
+        book: "Every Moment Holy: Volume I",
+        page: "41",
+        description: "A prayer to pray before working your job at a restaurant."
+    },
+    {
+        id: "18",
+        title: "A Liturgy for First Responders",
+        categories: "Work, Employment, Emergency",
+        book: "Every Moment Holy: Volume I",
+        page: "43",
+        description: "A prayer to pray before work your job as a first responder."
+    },
+    {
+        id: "19",
+        title: "A Liturgy for Medical Providers",
+        categories: "Work, Employment, Emergency, Hospital, Medical",
+        book: "Every Moment Holy: Volume I",
+        page: "44",
+        description: "A prayer to pray before working your job as a medical provider......"
+    },
+    {
+        id: "20",
+        title: "A Liturgy for Taking the Stage",
+        categories: "Performance, Public Speaking",
+        book: "Every Moment Holy: Volume I",
+        page: "48",
+        description: "A prayer to pray before getting to perform or speak in front of an audience."
+    },
+    {
+        id: "21",
+        title: "A Liturgy for Fiction Writers",
+        categories: "Writing, Books",
+        book: "Every Moment Holy: Volume I",
+        page: "50",
+        description: "A prayer to pray before writing a book."
+    },
+    {
+        id: "22",
+        title: "A Liturgy for Changing Diapars I",
+        categories: "Domestic, Baby, Childcare",
+        book: "Every Moment Holy: Volume I",
+        page: "53",
+        description: "A prayer to pray before changing your baby's diapar."
+    },
+    {
+        id: "23",
+        title: "A Liturgy for Changing Diapars II",
+        categories: "Domestic, Baby, Childcare",
+        book: "Every Moment Holy: Volume I",
+        page: "56",
+        description: "A shorter prayer to pray before changing your baby's diapar."
+    },
+    {
+        id: "24",
+        title: "A Liturgy for Those who Work in Wood & Stone & Metal & Clay",
+        categories: "Work, Employment, Labor",
+        book: "Every Moment Holy: Volume I",
+        page: "57",
+        description: "A prayer to pray before working a labor-intensive job with your hands. "
+    },
+    {
+        id: "25",
+        title: "A Liturgy for the Labors of Community",
+        categories: "Work, Employment, Community",
+        book: "Every Moment Holy: Volume I",
+        page: "60",
+        description: "A prayer to pray with your coworkers or community before working together, either at your job, or on a community project."
+    },
+    {
+        id: "26",
+        title: "A Liturgy for Arriving at the Ocean",
+        categories: "Creation, Ocean",
+        book: "Every Moment Holy: Volume I",
+        page: "65",
+        description: "A prayer to pray when sitting at the ocean."
+    },
+    {
+        id: "27",
+        title: "A Liturgy for Leaving on Holiday",
+        categories: "Vacation, Travel",
+        book: "Every Moment Holy: Volume I",
+        page: "68",
+        description: "A prayer to pray while traveling for vacation."
     },
 ]
 
