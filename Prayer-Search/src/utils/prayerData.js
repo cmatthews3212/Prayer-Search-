@@ -3782,7 +3782,111 @@ const prayerData = [
         book: "Prayers of Rest",
         page: "407",
         description: "A prayer resting in the promise that God will live with His people."
-    }
+    },
+    {
+        id: "475",
+        title: "His Wife",
+        categories: "Marriage, Praying as a Wife",
+        book: "The Power of a Praying Wife",
+        page: "6",
+        description: "A prayer to pray in being the wife God called you to be."
+    },
+    {
+        id: "476",
+        title: "His Wife",
+        categories: "Marriage, Praying as a Wife, Confession",
+        book: "The Power of a Praying Wife",
+        page: "8",
+        description: "A prayer to pray for confessing where you have done wrong as a wife."
+    },
+    {
+        id: "477",
+        title: "His Wife",
+        categories: "Marriage, Praying as a Wife, Expectations",
+        book: "The Power of a Praying Wife",
+        page: "10",
+        description: "A prayer to pray, laying down any expectations for your husband."
+    },
+    {
+        id: "478",
+        title: "His Wife",
+        categories: "Marriage, Praying as a Wife, Unity, Prayers",
+        book: "The Power of a Praying Wife",
+        page: "12",
+        description: "A prayer to pray for your marraige to make you a team, united as one."
+    },
+    {
+        id: "479",
+        title: "His Wife",
+        categories: "Marriage, Praying as a Wife, Commitment, Love",
+        book: "The Power of a Praying Wife",
+        page: "14",
+        description: "A prayer to pray to help you see your husband as God sees him."
+    },
+    {
+        id: "480",
+        title: "His Work",
+        categories: "Marriage, Praying as a Wife, Work",
+        book: "The Power of a Praying Wife",
+        page: "16",
+        description: "A prayer to pray as a blessing for your husband's work."
+    },
+    {
+        id: "481",
+        title: "His Work",
+        categories: "Marriage, Praying as a Wife, Work",
+        book: "The Power of a Praying Wife",
+        page: "18",
+        description: "A prayer to pray that the Lord would be over your husband's work."
+    },
+    {
+        id: "482",
+        title: "His Finances",
+        categories: "Marriage, Praying as a Wife, Finances",
+        book: "The Power of a Praying Wife",
+        page: "20",
+        description: "A prayer to pray to commit your finances to the Lord."
+    },
+    {
+        id: "483",
+        title: "His Work",
+        categories: "Marriage, Praying as a Wife, Finances, Wisdom",
+        book: "The Power of a Praying Wife",
+        page: "22",
+        description: "A prayer to pray for your husband to have wisdom over the finances."
+    },
+    {
+        id: "484",
+        title: "His Sexuality",
+        categories: "Marriage, Praying as a Wife, Sexuality",
+        book: "The Power of a Praying Wife",
+        page: "24",
+        description: "A prayer to pray for your husband's sexual fulfillment."
+    },
+    {
+        id: "486",
+        title: "His Sexuality",
+        categories: "Marriage, Praying as a Wife, Sexuality",
+        book: "The Power of a Praying Wife",
+        page: "26",
+        description: "A prayer to pray that you and your husband would only desire each other."
+    },
+    {
+        id: "488",
+        title: "His Affection",
+        categories: "Marriage, Praying as a Wife, Affection, Love",
+        book: "The Power of a Praying Wife",
+        page: "28",
+        description: "A prayer to pray for you and your husband's affection to be only for each other."
+    },
+    {
+        id: "489",
+        title: "His Temptations",
+        categories: "Marriage, Praying as a Wife, Tempatation",
+        book: "The Power of a Praying Wife",
+        page: "30",
+        description: "A prayer to pray over your husband's temptations."
+    },
     
 ]
 
