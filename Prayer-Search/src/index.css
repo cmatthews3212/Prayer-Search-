@@ -58,6 +58,8 @@ header h1 {
 }
 #title {
   text-decoration: underline;
+  font-size: 20px;
+  
 }
 #title, #categories {
   text-align: center;

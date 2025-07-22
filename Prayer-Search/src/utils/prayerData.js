@@ -3887,6 +3887,151 @@ const prayerData = [
         page: "30",
         description: "A prayer to pray over your husband's temptations."
     },
+    {
+        id: "490",
+        title: "His Mind",
+        categories: "Marriage, Praying as a Wife, Mental Health, Lies",
+        book: "The Power of a Praying Wife",
+        page: "32",
+        description: "A prayer to pray over your husband's thoughts and against lies he may believe."
+    },
+    {
+        id: "491",
+        title: "His Mind",
+        categories: "Marriage, Praying as a Wife, Mental Health, Anxiety",
+        book: "The Power of a Praying Wife",
+        page: "34",
+        description: "A prayer to pray over your husband's thoughts and against any anxiety he may struggle with."
+    },
+    {
+        id: "492",
+        title: "His Fears",
+        categories: "Marriage, Praying as a Wife, Fear, Anxiety",
+        book: "The Power of a Praying Wife",
+        page: "36",
+        description: "A prayer to pray against your husband's fears."
+    },
+    {
+        id: "493",
+        title: "His Fears",
+        categories: "Marriage, Praying as a Wife, Fear, Anxiety",
+        book: "The Power of a Praying Wife",
+        page: "38",
+        description: "A prayer to pray against your husband's fears and that he would rely on God."
+    },
+    {
+        id: "494",
+        title: "His Fears",
+        categories: "Marriage, Praying as a Wife, Fear, Anxiety",
+        book: "The Power of a Praying Wife",
+        page: "40",
+        description: "A prayer to pray against your husband's fears and that he would have rest in Christ."
+    },
+    {
+        id: "495",
+        title: "His Purpose",
+        categories: "Marriage, Praying as a Wife, Purpose",
+        book: "The Power of a Praying Wife",
+        page: "42",
+        description: "A prayer to pray over your husband's purpose on earth and that he would have encouragement."
+    },
+    {
+        id: "496",
+        title: "His Choices",
+        categories: "Marriage, Praying as a Wife, Choices",
+        book: "The Power of a Praying Wife",
+        page: "44",
+        description: "A prayer to pray that your husband would make Godly choices."
+    },
+    {
+        id: "497",
+        title: "His Health",
+        categories: "Marriage, Praying as a Wife, Health",
+        book: "The Power of a Praying Wife",
+        page: "46",
+        description: "A prayer to pray of healing over your husband's body."
+    },
+    {
+        id: "498",
+        title: "His Health",
+        categories: "Marriage, Praying as a Wife, Health",
+        book: "The Power of a Praying Wife",
+        page: "48",
+        description: "A prayer to pray over a specific physical ailment your husband is struggling with."
+    },
+    {
+        id: "499",
+        title: "His Protection",
+        categories: "Marriage, Praying as a Wife, Protection",
+        book: "The Power of a Praying Wife",
+        page: "50",
+        description: "A prayer to pray of protection over your husband's safety."
+    },
+    {
+        id: "500",
+        title: "His Trials",
+        categories: "Marriage, Praying as a Wife, Struggle",
+        book: "The Power of a Praying Wife",
+        page: "52",
+        description: "A prayer to pray over the trials your husband is struggling with."
+    },
+    {
+        id: "501",
+        title: "His Trials",
+        categories: "Marriage, Praying as a Wife, Struggle",
+        book: "The Power of a Praying Wife",
+        page: "54",
+        description: "A prayer to pray for strength for your husband during his trials."
+    },
+    {
+        id: "502",
+        title: "His Trials",
+        categories: "Marriage, Praying as a Wife, Struggle",
+        book: "The Power of a Praying Wife",
+        page: "56",
+        description: "A prayer to pray that your husband would find rest and strength in Christ during his trials."
+    },
+    {
+        id: "503",
+        title: "His Integrity",
+        categories: "Marriage, Praying as a Wife, Integrity, Choices",
+        book: "The Power of a Praying Wife",
+        page: "58",
+        description: "A prayer to pray for your husband to be true to his word."
+    },
+    {
+        id: "504",
+        title: "His Integrity",
+        categories: "Marriage, Praying as a Wife, Integrity, Confession",
+        book: "The Power of a Praying Wife",
+        page: "60",
+        description: "A prayer to pray that your husband would be honest and confess his mistakes."
+    },
+    {
+        id: "505",
+        title: "His Reputation",
+        categories: "Marriage, Praying as a Wife, Reputation",
+        book: "The Power of a Praying Wife",
+        page: "62",
+        description: "A prayer to pray over your husband's reputation, that it would be protected."
+    },
+    {
+        id: "506",
+        title: "His Reputation",
+        categories: "Marriage, Praying as a Wife, Reputation",
+        book: "The Power of a Praying Wife",
+        page: "64",
+        description: "A prayer to pray that your husband's reputation would reflect the fruit of the Spirit."
+    },
+    {
+        id: "507",
+        title: "His Reputation",
+        categories: "Marriage, Praying as a Wife, Struggle",
+        book: "The Power of a Praying Wife",
+        page: "52",
+        description: "A prayer to pray over the trials your husband is struggling with."
+    },
+    
     
 ]
 
