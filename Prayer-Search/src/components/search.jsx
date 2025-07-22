@@ -22,7 +22,8 @@ export default function Search () {
     const filteredPrayers = prayerData.filter(prayer => {
         const titleMatch = prayer.title.toLowerCase().includes(searchQuery.toLowerCase());
         const categoryMatch = prayer.categories.toLowerCase().includes(searchQuery.toLowerCase())
-        return titleMatch || categoryMatch
+        const bookMatch = prayer.book.toLowerCase().includes(searchQuery.toLowerCase());
+        return titleMatch || categoryMatch || bookMatch
     })
 
     return (
