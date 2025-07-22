@@ -162,7 +162,7 @@ const prayerData = [
     {
         id: "22",
         title: "A Liturgy for Changing Diapars I",
-        categories: "Domestic, Baby, Childcare",
+        categories: "Domestic, Baby, Childcare, Parenting",
         book: "Every Moment Holy: Volume I",
         page: "53",
         description: "A prayer to pray before changing your baby's diapar."
@@ -170,7 +170,7 @@ const prayerData = [
     {
         id: "23",
         title: "A Liturgy for Changing Diapars II",
-        categories: "Domestic, Baby, Childcare",
+        categories: "Domestic, Baby, Childcare, Parenting",
         book: "Every Moment Holy: Volume I",
         page: "56",
         description: "A shorter prayer to pray before changing your baby's diapar."
@@ -762,7 +762,7 @@ const prayerData = [
     {
         id: "97",
         title: "A Liturgy for a Moment of Frustration at a Child",
-        categories: "Childcare, baby, Anger",
+        categories: "Childcare, Parenting, baby, Anger",
         book: "Every Moment Holy: Volume I",
         page: "254",
         description: "A prayer to pray when feeling frustrated at a child."
@@ -1946,7 +1946,7 @@ const prayerData = [
     {
         id: "245",
         title: "Salvation",
-        categories: "Children, Salvation",
+        categories: "Children, Salvation, Parenting",
         book: "Prayers of Rest",
         page: "166",
         description: "A prayer for a child's salvation."
@@ -1962,7 +1962,7 @@ const prayerData = [
     {
         id: "247",
         title: "Humility",
-        categories: "Children, Humility",
+        categories: "Children, Humility, Parenting",
         book: "Prayers of Rest",
         page: "168",
         description: "A prayer for a child to have humility."
@@ -1970,7 +1970,7 @@ const prayerData = [
     {
         id: "248",
         title: "Health to Do Good Works",
-        categories: "Children, Health, Service",
+        categories: "Children, Health, Service, Parenting",
         book: "Prayers of Rest",
         page: "169",
         description: "A prayer for a child's health to do good works."
@@ -1978,7 +1978,7 @@ const prayerData = [
     {
         id: "249",
         title: "Wisdom and Integrity",
-        categories: "Children, Wisdom, Integrity",
+        categories: "Children, Wisdom, Integrity, Parenting",
         book: "Prayers of Rest",
         page: "170",
         description: "A prayer for a child to have wisdom and integrity."
@@ -1986,7 +1986,7 @@ const prayerData = [
     {
         id: "250",
         title: "Divine Protection",
-        categories: "Children, Protection",
+        categories: "Children, Protection, Parenting",
         book: "Prayers of Rest",
         page: "171",
         description: "A prayer for a child's divine protection."
@@ -1994,7 +1994,7 @@ const prayerData = [
     {
         id: "251",
         title: "Marriage and Sexuality",
-        categories: "Children, Marriage, Sexuality",
+        categories: "Children, Marriage, Sexuality, Parenting",
         book: "Prayers of Rest",
         page: "172",
         description: "A prayer for a child's future marriage and sexuality."
@@ -2002,7 +2002,7 @@ const prayerData = [
     {
         id: "252",
         title: "Boldness and Steadfastness",
-        categories: "Children, Boldness, Steadfastness",
+        categories: "Children, Boldness, Steadfastness, Parenting",
         book: "Prayers of Rest",
         page: "173",
         description: "A prayer for a child to have boldness and steadfastness."
@@ -2010,7 +2010,7 @@ const prayerData = [
     {
         id: "253",
         title: "Body Image and Beauty",
-        categories: "Children, Body Image, Beauty",
+        categories: "Children, Body Image, Beauty, Parenting",
         book: "Prayers of Rest",
         page: "174",
         description: "A prayer for a child's body image and understanding of true beauty."
@@ -2018,7 +2018,7 @@ const prayerData = [
     {
         id: "254",
         title: "Sibling Friendships",
-        categories: "Children, Siblings, Friendship",
+        categories: "Children, Siblings, Friendship, Family",
         book: "Prayers of Rest",
         page: "175",
         description: "A prayer for sibling friendships."
@@ -2130,7 +2130,7 @@ const prayerData = [
     {
         id: "268",
         title: "Parents Who Have Lost a Child",
-        categories: "Suffering, Grief, Child Loss",
+        categories: "Suffering, Grief, Child Loss, Parenting",
         book: "Prayers of Rest",
         page: "189",
         description: "A prayer for parents who have lost a child."
@@ -2146,7 +2146,7 @@ const prayerData = [
     {
         id: "270",
         title: "Labor and Delivery",
-        categories: "Suffering, Childbirth",
+        categories: "Suffering, Childbirth, Parenting",
         book: "Prayers of Rest",
         page: "191",
         description: "A prayer for a woman in labor and delivery."
@@ -2170,7 +2170,7 @@ const prayerData = [
     {
         id: "273",
         title: "Straying Children",
-        categories: "Suffering, Children",
+        categories: "Suffering, Children, Parenting",
         book: "Prayers of Rest",
         page: "194",
         description: "A prayer for straying children."
@@ -4054,6 +4054,222 @@ const prayerData = [
         book: "The Power of a Praying Wife",
         page: "72",
         description: "A prayer to pray that your husband would be a good friend."
+    },
+    {
+        id: "511",
+        title: "His Fatherhood",
+        categories: "Marriage, Praying as a Wife, Parenting",
+        book: "The Power of a Praying Wife",
+        page: "74",
+        description: "A prayer to pray over your husband as a father and that he would lean on his heavenly Father."
+    },
+    {
+        id: "512",
+        title: "His Fatherhood",
+        categories: "Marriage, Praying as a Wife, Parenting",
+        book: "The Power of a Praying Wife",
+        page: "76",
+        description: "A prayer to pray over your husband in disciplining his children."
+    },
+    {
+        id: "513",
+        title: "His Fatherhood",
+        categories: "Marriage, Praying as a Wife, Parenting",
+        book: "The Power of a Praying Wife",
+        page: "78",
+        description: "A prayer to pray that your husband would delight in fatherhood."
+    },
+    {
+        id: "514",
+        title: "His past",
+        categories: "Marriage, Praying as a Wife, Regrets",
+        book: "The Power of a Praying Wife",
+        page: "80",
+        description: "A prayer to pray that your husband would be able to let go of the past."
+    },
+    {
+        id: "515",
+        title: "His Past",
+        categories: "Marriage, Praying as a Wife, Forgiveness",
+        book: "The Power of a Praying Wife",
+        page: "82",
+        description: "A prayer to pray that your husband would be able to forgive those who have hurt him in the past."
+    },
+    {
+        id: "516",
+        title: "His Attitude",
+        categories: "Marriage, Praying as a Wife, Attitude, Peace",
+        book: "The Power of a Praying Wife",
+        page: "84",
+        description: "A prayer to pray that your husband would have an attitude of peace and light."
+    },
+    {
+        id: "517",
+        title: "His Attitude",
+        categories: "Marriage, Praying as a Wife, Attitude, Thanksgiving",
+        book: "The Power of a Praying Wife",
+        page: "86",
+        description: "A prayer to pray that your husband would have an attitude of thanksgiving."
+    },
+    {
+        id: "518",
+        title: "His Marriage",
+        categories: "Marriage, Praying as a Wife",
+        book: "The Power of a Praying Wife",
+        page: "88",
+        description: "A prayer to pray of protection over your marriage."
+    },
+    {
+        id: "519",
+        title: "His Marriage",
+        categories: "Marriage, Praying as a Wife",
+        book: "The Power of a Praying Wife",
+        page: "90",
+        description: "A prayer to pray for unity within your marraige."
+    },
+    {
+        id: "520",
+        title: "His Emotions",
+        categories: "Marriage, Praying as a Wife, Mental Health",
+        book: "The Power of a Praying Wife",
+        page: "92",
+        description: "A prayer to pray for your husband to give his emotions to the Lord."
+    },
+    {
+        id: "521",
+        title: "His Emotions",
+        categories: "Marriage, Praying as a Wife, Mental Health",
+        book: "The Power of a Praying Wife",
+        page: "94",
+        description: "A prayer to pray that your husband would be freed from negative emotions."
+    },
+    {
+        id: "522",
+        title: "His Walk",
+        categories: "Marriage, Praying as a Wife, Faith",
+        book: "The Power of a Praying Wife",
+        page: "96",
+        description: "A prayer to pray that your husband would have a deeper walk with Christ."
+    },
+    {
+        id: "523",
+        title: "His Walk",
+        categories: "Marriage, Praying as a Wife, Faith",
+        book: "The Power of a Praying Wife",
+        page: "98",
+        description: "A prayer to pray that your husband would walk in the Spirit."
+    },
+    {
+        id: "524",
+        title: "His Talk",
+        categories: "Marriage, Praying as a Wife, Temptations",
+        book: "The Power of a Praying Wife",
+        page: "100",
+        description: "A prayer to pray for your husband to speak edifying words."
+    },
+    {
+        id: "525",
+        title: "His Talk",
+        categories: "Marriage, Praying as a Wife, Temptations",
+        book: "The Power of a Praying Wife",
+        page: "102",
+        description: "A prayer to pray that you and your husband would speak words of life to each other."
+    },
+    {
+        id: "526",
+        title: "His Repentance",
+        categories: "Marriage, Praying as a Wife, Confession, Repentance, Conviction",
+        book: "The Power of a Praying Wife",
+        page: "104",
+        description: "A prayer to pray for your husband would be convicted by the Holy Spirit to repent."
+    },
+    {
+        id: "527",
+        title: "His Deliverance",
+        categories: "Marriage, Praying as a Wife, Struggle",
+        book: "The Power of a Praying Wife",
+        page: "106",
+        description: "A prayer to pray that your husband would be delivered from evil."
+    },
+    {
+        id: "528",
+        title: "His Deliverance",
+        categories: "Marriage, Praying as a Wife, Struggle",
+        book: "The Power of a Praying Wife",
+        page: "108",
+        description: "A prayer to pray that your husband would be delivered from his enemies."
+    },
+    {
+        id: "529",
+        title: "His Obedience",
+        categories: "Marriage, Praying as a Wife, Obedience",
+        book: "The Power of a Praying Wife",
+        page: "110",
+        description: "A prayer to pray that your husband would live in obedience."
+    },
+    {
+        id: "530",
+        title: "His Obedience",
+        categories: "Marriage, Praying as a Wife, Obedience",
+        book: "The Power of a Praying Wife",
+        page: "112",
+        description: "A prayer to pray that your husband would walk in a way that is sensitive to God's instructions."
+    },
+    {
+        id: "531",
+        title: "His Self-Image",
+        categories: "Marriage, Praying as a Wife, Body Image, Self-Image, Insecurity",
+        book: "The Power of a Praying Wife",
+        page: "114",
+        description: "A prayer to pray that your husband would find his identity in Christ."
+    },
+    {
+        id: "532",
+        title: "His Self-Image",
+        categories: "Marriage, Praying as a Wife, Body Image, Self-Image, Insecurity",
+        book: "The Power of a Praying Wife",
+        page: "116",
+        description: "A prayer to pray that your husband would have peace and security of knowing who he is in Christ."
+    },
+    {
+        id: "533",
+        title: "His Faith",
+        categories: "Marriage, Praying as a Wife, Faith",
+        book: "The Power of a Praying Wife",
+        page: "118",
+        description: "A prayer to pray that your husband would have added faith on this day."
+    },
+    {
+        id: "534",
+        title: "His Faith",
+        categories: "Marriage, Praying as a Wife, Faith",
+        book: "The Power of a Praying Wife",
+        page: "120",
+        description: "A prayer to pray that your husband would have complete certainty in Christ."
+    },
+    {
+        id: "535",
+        title: "His Hearing",
+        categories: "Marriage, Praying as a Wife, Listening",
+        book: "The Power of a Praying Wife",
+        page: "122",
+        description: "A prayer to pray that your husband would open his ears to the words of God."
+    },
+    {
+        id: "536",
+        title: "His Future",
+        categories: "Marriage, Praying as a Wife, Future",
+        book: "The Power of a Praying Wife",
+        page: "124",
+        description: "A prayer to pray that God would give your husband a vision for his future."
+    },
+    {
+        id: "537",
+        title: "His Future",
+        categories: "Marriage, Praying as a Wife, Future",
+        book: "The Power of a Praying Wife",
+        page: "126",
+        description: "A prayer to pray that your husband would invest into his future."
     },
     
     
