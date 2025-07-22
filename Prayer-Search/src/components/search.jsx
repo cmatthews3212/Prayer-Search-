@@ -3,6 +3,10 @@ import { useState, useRef, useEffect } from 'react';
 export default function Search () {
       const [searchQuery, setSearchQuery] = useState('')
 
+      const emptySearch = () => {
+       window.location.reload()
+      }
+
       const inputRef = useRef(null)
 
       useEffect(() => {
@@ -30,6 +34,7 @@ export default function Search () {
         <section className="search-container">
             <form>
                 <input type="text" id="search" name="search" placeholder="Search" ref={inputRef} onChange={(e) => setSearchQuery(e.target.value)}></input>
+                <span id="close" onClick={emptySearch}>X</span>
             </form>
             <div className='prayers-container'>
                    {filteredPrayers.map((prayer, i) => (
