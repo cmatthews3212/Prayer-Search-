@@ -4146,7 +4146,7 @@ const prayerData = [
     {
         id: "522",
         title: "His Walk",
-        categories: "Marriage, Praying as a Wife, Faith",
+        categories: "Marriage, Praying as a Wife, Faith, Walk",
         book: "The Power of a Praying Wife",
         page: "96",
         description: "A prayer to pray that your husband would have a deeper walk with Christ."
@@ -4154,7 +4154,7 @@ const prayerData = [
     {
         id: "523",
         title: "His Walk",
-        categories: "Marriage, Praying as a Wife, Faith",
+        categories: "Marriage, Praying as a Wife, Faith, Walk",
         book: "The Power of a Praying Wife",
         page: "98",
         description: "A prayer to pray that your husband would walk in the Spirit."
@@ -4270,6 +4270,278 @@ const prayerData = [
         book: "The Power of a Praying Wife",
         page: "126",
         description: "A prayer to pray that your husband would invest into his future."
+    },
+    {
+        id: "538",
+        title: "Lord, Draw Me into a Closer Walk with You",
+        categories: "Praying as a Woman, Walk",
+        book: "The Power of a Praying Woman",
+        page: "6",
+        description: "A prayer to pray for a woman to grow closer in her walk with Christ."
+    },
+    {
+        id: "539",
+        title: "Lord, Draw Me into a Closer Walk with You",
+        categories: "Praying as a Woman, Walk",
+        book: "The Power of a Praying Woman",
+        page: "8",
+        description: "A prayer to pray for a woman to set aside time each day to spend with Christ."
+    },
+    {
+        id: "540",
+        title: "Lord, Cleanse Me and Make My Heart Right Before You",
+        categories: "Praying as a Woman, Confession, Repentance, Forgiveness",
+        book: "The Power of a Praying Woman",
+        page: "10",
+        description: "A prayer to pray for a woman to pray for forgiveness of her sins."
+    },
+    {
+        id: "541",
+        title: "Lord, Cleanse Me and Make My Heart Right Before You",
+        categories: "Praying as a Woman, Confession, Repentance, Forgiveness",
+        book: "The Power of a Praying Woman",
+        page: "12",
+        description: "A prayer to pray for a woman to pray that God would search her heart."
+    },
+    {
+        id: "542",
+        title: "Lord, Help Me to Be a Forgiving Person",
+        categories: "Praying as a Woman, Forgiveness",
+        book: "The Power of a Praying Woman",
+        page: "14",
+        description: "A prayer to pray for a woman to pray to handle unforgiveness."
+    },
+    {
+        id: "543",
+        title: "Lord, Help Me to Be a Forgiving Person",
+        categories: "Praying as a Woman, Forgiveness",
+        book: "The Power of a Praying Woman",
+        page: "16",
+        description: "A prayer to pray for a woman to pray for God to soften the hearts that she may need forgiveness from."
+    },
+    {
+        id: "544",
+        title: "Lord, Teach Me to Walk in Obedience to Your Ways",
+        categories: "Praying as a Woman, Obedience",
+        book: "The Power of a Praying Woman",
+        page: "18",
+        description: "A prayer to pray for a woman to pray to find help in her daily walk of obedience."
+    },
+    {
+        id: "545",
+        title: "Lord, Teach Me to Walk in Obedience to Your Ways",
+        categories: "Praying as a Woman, Obedience",
+        book: "The Power of a Praying Woman",
+        page: "20",
+        description: "A prayer to pray for a woman to pray to listen to God's voice of conviction and areas where she is not being obedient."
+    },
+    {
+        id: "546",
+        title: "Lord, Strengthen Me to Stand Against the Enemy",
+        categories: "Praying as a Woman, Spiritual Warfare",
+        book: "The Power of a Praying Woman",
+        page: "22",
+        description: "A prayer to pray for a woman to pray to use the authority given by God to fight the enemy's strongholds."
+    },
+    {
+        id: "547",
+        title: "Lord, Strengthen Me to Stand Against the Enemy",
+        categories: "Praying as a Woman, Spiritual Warfare",
+        book: "The Power of a Praying Woman",
+        page: "24",
+        description: "A prayer to pray for a woman to pray for protection from evil plans of the enemy."
+    },
+    {
+        id: "548",
+        title: "Lord, Show Me How to Take Control of My Mind",
+        categories: "Praying as a Woman, Mental Health",
+        book: "The Power of a Praying Woman",
+        page: "26",
+        description: "A prayer to pray for a woman to pray to fight against lies she may believe."
+    },
+    {
+        id: "549",
+        title: "Lord, Show Me How to Take Control of My Mind",
+        categories: "Praying as a Woman, Mental Health",
+        book: "The Power of a Praying Woman",
+        page: "28",
+        description: "A prayer to pray for a woman to pray to think thoughts that are glorifying to God."
+    },
+    {
+        id: "550",
+        title: "Lord, Rule Me in Every Area of My Life",
+        categories: "Praying as a Woman, Obedience, Walk",
+        book: "The Power of a Praying Woman",
+        page: "30",
+        description: "A prayer to pray for a woman to pray to live every part of her life for Christ."
+    },
+    {
+        id: "551",
+        title: "Lord, Rule Me in Every Area of My Life",
+        categories: "Praying as a Woman, Obedience, Walk",
+        book: "The Power of a Praying Woman",
+        page: "32",
+        description: "A prayer to pray for a woman to pray to give all passions to Christ."
+    },
+    {
+        id: "552",
+        title: "Lord, Take Me Deeper in Your Word",
+        categories: "Praying as a Woman, Obedience, Word of God, Disciplines",
+        book: "The Power of a Praying Woman",
+        page: "34",
+        description: "A prayer to pray for a woman to pray to learn what God is teaching her through His Word."
+    },
+    {
+        id: "553",
+        title: "Lord, Take Me Deeper in Your Word",
+        categories: "Praying as a Woman, Obedience, Word of God, Disciplines",
+        book: "The Power of a Praying Woman",
+        page: "36",
+        description: "A prayer to pray for a woman to pray that God's Word would lead her life."
+    },
+    {
+        id: "554",
+        title: "Lord, Instruct Me as I Put My Life in Right Order",
+        categories: "Praying as a Woman, Obedience, Priorities",
+        book: "The Power of a Praying Woman",
+        page: "38",
+        description: "A prayer to pray for a woman to pray for God's guidance in where her priorities lie."
+    },
+    {
+        id: "555",
+        title: "Lord, Instruct Me as I Put My Life in Right Order",
+        categories: "Praying as a Woman, Obedience, Priorities",
+        book: "The Power of a Praying Woman",
+        page: "40",
+        description: "A prayer to pray for a woman to pray that she would submit to those she is called to submit to."
+    },
+    {
+        id: "556",
+        title: "Lord, Prepare Me to Be a True Worshiper",
+        categories: "Praying as a Woman, Worship",
+        book: "The Power of a Praying Woman",
+        page: "42",
+        description: "A prayer to pray for a woman to pray as worship to God."
+    },
+    {
+        id: "557",
+        title: "Lord, Prepare Me to Be a True Worshiper",
+        categories: "Praying as a Woman, Worship",
+        book: "The Power of a Praying Woman",
+        page: "44",
+        description: "A prayer to pray for a woman to pray for God's teachings on how to Worship properly."
+    },
+    {
+        id: "558",
+        title: "Lord, Bless Me in the Work I Do",
+        categories: "Praying as a Woman, Work, Listening",
+        book: "The Power of a Praying Woman",
+        page: "46",
+        description: "A prayer to pray for a woman to pray for God to show her the work she should be doing."
+    },
+    {
+        id: "559",
+        title: "Lord, Bless Me in the Work I Do",
+        categories: "Praying as a Woman, Work",
+        book: "The Power of a Praying Woman",
+        page: "48",
+        description: "A prayer to pray for a woman to pray for God to show her opportunities she should take and to always love her work."
+    },
+    {
+        id: "560",
+        title: "Lord, Plant Me so I Will Bear the Fruit of Your Spirit",
+        categories: "Praying as a Woman, Fruit of the Spirit, Obedience",
+        book: "The Power of a Praying Woman",
+        page: "50",
+        description: "A prayer to pray for a woman to pray for God that people would sense God when around her."
+    },
+    {
+        id: "561",
+        title: "Lord, Plant Me so I Will Bear the Fruit of Your Spirit",
+        categories: "Praying as a Woman, Fruit of the Spirit, Obedience",
+        book: "The Power of a Praying Woman",
+        page: "52",
+        description: "A prayer to pray for a woman to pray for God to prune her where she needs pruning."
+    },
+    {
+        id: "562",
+        title: "Lord, Preserve Me in Purity and Holiness",
+        categories: "Praying as a Woman, Purity, Holiness",
+        book: "The Power of a Praying Woman",
+        page: "54",
+        description: "A prayer to pray for a woman to pray that she would be clean and blameless before the Lord."
+    },
+    {
+        id: "563",
+        title: "Lord, Preserve Me in Purity and Holiness",
+        categories: "Praying as a Woman, Purity, Holiness",
+        book: "The Power of a Praying Woman",
+        page: "56",
+        description: "A prayer to pray for a woman to pray for God to examine her heart and show her where she is impure."
+    },
+    {
+        id: "564",
+        title: "Lord, Move Me into the Purpose for Which I was Created",
+        categories: "Praying as a Woman, Purpose",
+        book: "The Power of a Praying Woman",
+        page: "58",
+        description: "A prayer to pray for a woman to pray that she would walk in the purpose God has called her to."
+    },
+    {
+        id: "565",
+        title: "Lord, Move Me into the Purpose for Which I was Created",
+        categories: "Praying as a Woman, Purpose",
+        book: "The Power of a Praying Woman",
+        page: "60",
+        description: "A prayer to pray for a woman to pray that God would give her a vision for her life."
+    },
+    {
+        id: "566",
+        title: "Lord, Guide Me in All My Relationships",
+        categories: "Praying as a Woman, Relationships, Friendship",
+        book: "The Power of a Praying Woman",
+        page: "62",
+        description: "A prayer to pray for a woman to pray that God would bless her relationships."
+    },
+    {
+        id: "567",
+        title: "Lord, Guide Me in All My Relationships",
+        categories: "Praying as a Woman, Relationships, Friendship, Conviction",
+        book: "The Power of a Praying Woman",
+        page: "64",
+        description: "A prayer to pray for a woman to pray that she would be a source of light in her relationships."
+    },
+    {
+        id: "568",
+        title: "Lord, Keep Me in the Center of Your Will",
+        categories: "Praying as a Woman, Obedience, God's Will",
+        book: "The Power of a Praying Woman",
+        page: "66",
+        description: "A prayer to pray for a woman to pray that she would do not her will but God's will."
+    },
+    {
+        id: "569",
+        title: "Lord, Keep Me in the Center of Your Will",
+        categories: "Praying as a Woman, Obedience, God's Will, Listening",
+        book: "The Power of a Praying Woman",
+        page: "68",
+        description: "A prayer to pray for a woman to pray that she would listen to the Voice of God and do His will."
+    },
+    {
+        id: "570",
+        title: "Lord, Protect Me and All I Care About",
+        categories: "Praying as a Woman, Protection, Spiritual Warfare",
+        book: "The Power of a Praying Woman",
+        page: "70",
+        description: "A prayer to pray for a woman to pray that God would protect her and be her Sheild."
+    },
+    {
+        id: "571",
+        title: "Lord, Protect Me and All I Care About",
+        categories: "Praying as a Woman, Protection, Spiritual Warfare",
+        book: "The Power of a Praying Woman",
+        page: "72",
+        description: "A prayer to pray for a woman to pray that she would lean on God in times of need."
     },
     
     
