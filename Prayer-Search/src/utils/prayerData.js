@@ -4543,6 +4543,23 @@ const prayerData = [
         page: "72",
         description: "A prayer to pray for a woman to pray that she would lean on God in times of need."
     },
+    {
+        id: "572",
+        title: "Lord, Give Me Wisdom to Make Right Decisions",
+        categories: "Praying as a Woman, Priorities, Choices, Wisdom, Discernment",
+        book: "The Power of a Praying Woman",
+        page: "74",
+        description: "A prayer to pray for a woman to pray that she would have the wisdom to discern her choices."
+    },
+    {
+        id: "573",
+        title: "Lord, Give Me Wisdom to Make Right Decisions",
+        categories: "Praying as a Woman, Priorities, Choices, Wisdom, Discernment, Walk",
+        book: "The Power of a Praying Woman",
+        page: "76",
+        description: "A prayer to pray for a woman to pray that she would have the wisdom to walk in the way of Christ."
+    },
+    
     
     
 ]
