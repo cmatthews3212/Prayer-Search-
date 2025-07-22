@@ -4026,10 +4026,34 @@ const prayerData = [
     {
         id: "507",
         title: "His Reputation",
-        categories: "Marriage, Praying as a Wife, Struggle",
+        categories: "Marriage, Praying as a Wife, Reputation",
         book: "The Power of a Praying Wife",
-        page: "52",
-        description: "A prayer to pray over the trials your husband is struggling with."
+        page: "66",
+        description: "A prayer to pray to keep gossip away from being about my husband."
+    },
+    {
+        id: "508",
+        title: "His Priorities",
+        categories: "Marriage, Praying as a Wife, Choices, Priorities",
+        book: "The Power of a Praying Wife",
+        page: "68",
+        description: "A prayer to pray to help your husband prioritize well."
+    },
+    {
+        id: "509",
+        title: "His Relationships",
+        categories: "Marriage, Praying as a Wife, Relationships, Friendship, Community",
+        book: "The Power of a Praying Wife",
+        page: "70",
+        description: "A prayer to pray over your husband's relationships and friendships."
+    },
+    {
+        id: "510",
+        title: "His Relationships",
+        categories: "Marriage, Praying as a Wife, Relationships, Friendship, Community",
+        book: "The Power of a Praying Wife",
+        page: "72",
+        description: "A prayer to pray that your husband would be a good friend."
     },
     
     
