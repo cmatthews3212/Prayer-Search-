@@ -4759,6 +4759,158 @@ const prayerData = [
         page: "124",
         description: "A prayer to pray for a woman to pray that the Holy Spirit would guide her in ministry."
     },
+    {
+        id: "600",
+        title: "Prayer for Spiritual Vicotry",
+        categories: "Spiritual Warfare, Praise, Victory",
+        book: "Spiritual Warfare Prayers",
+        page: "2",
+        description: "A prayer to pray as a praise to God for the victory He has given you through Christ."
+    },
+    {
+        id: "601",
+        title: "Prayer for Salvation of Friend",
+        categories: "Spiritual Warfare, Salvation",
+        book: "Spiritual Warfare Prayers",
+        page: "3",
+        description: "A prayer to pray for an unsaved friend."
+    },
+    {
+        id: "602",
+        title: "Prayer for Christian Unity",
+        categories: "Spiritual Warfare, Church, Unity",
+        book: "Spiritual Warfare Prayers",
+        page: "4",
+        description: "A prayer to pray for the unity of the Church."
+    },
+    {
+        id: "603",
+        title: "Prayer for Marriage",
+        categories: "Spiritual Warfare, Marriage, Confession",
+        book: "Spiritual Warfare Prayers",
+        page: "5",
+        description: "A prayer to pray for your marriage by confession your wrongdoings and praying for clarity."
+    },
+    {
+        id: "604",
+        title: "Prayer to Know and Speak Truth",
+        categories: "Spiritual Warfare, Truth, Speaking, Conviction",
+        book: "Spiritual Warfare Prayers",
+        page: "6",
+        description: "A prayer to pray for knowledge of truth and conviction if ever you speak something untrue."
+    },
+    {
+        id: "605",
+        title: "Prayer for Repentance",
+        categories: "Spiritual Warfare, Confession, Repentance, Sin",
+        book: "Spiritual Warfare Prayers",
+        page: "7",
+        description: "A prayer to pray for true repentance of sin."
+    },
+    {
+        id: "606",
+        title: "Prayer for Revival",
+        categories: "Spiritual Warfare, Community",
+        book: "Spiritual Warfare Prayers",
+        page: "8",
+        description: "A prayer to pray for revival for your community and nation."
+    },
+    {
+        id: "607",
+        title: "Prayer to Wear the Armor of God",
+        categories: "Spiritual Warfare, Armor of God",
+        book: "Spiritual Warfare Prayers",
+        page: "9",
+        description: "A prayer to pray for putting on the armor of God."
+    },
+    {
+        id: "608",
+        title: "Prayer Against Temptation",
+        categories: "Spiritual Warfare, Temptation, Sin, Confession",
+        book: "Spiritual Warfare Prayers",
+        page: "10",
+        description: "A prayer to pray for protection against temptation and confession for your sins."
+    },
+    {
+        id: "609",
+        title: "Prayer to Live by the Spirit",
+        categories: "Spiritual Warfare, Walk, Holy Spirit",
+        book: "Spiritual Warfare Prayers",
+        page: "11",
+        description: "A prayer to pray for walking in the Spirit each day."
+    },
+    {
+        id: "610",
+        title: "Prayer to Remove Demonic Harassment",
+        categories: "Spiritual Warfare, Demonic Oppression",
+        book: "Spiritual Warfare Prayers",
+        page: "12",
+        description: "A prayer to pray over demonic oppression."
+    },
+    {
+        id: "611",
+        title: "Prayer to Remove Demonic Influence",
+        categories: "Spiritual Warfare, Demonic Influence, Repentance, Confession",
+        book: "Spiritual Warfare Prayers",
+        page: "13",
+        description: "A prayer to pray to search your heart where you are being influenced by demonic and wordly things."
+    },
+    {
+        id: "612",
+        title: "Prayer for the Country and World",
+        categories: "Spiritual Warfare, Nation, World",
+        book: "Spiritual Warfare Prayers",
+        page: "14",
+        description: "A prayer to pray over your country and the world."
+    },
+    {
+        id: "613",
+        title: "Prayers for Children: As They Go to Sleep at Night",
+        categories: "Spiritual Warfare, Children, Sleep, Night",
+        book: "Spiritual Warfare Prayers",
+        page: "15",
+        description: "A prayer to pray over your children as they go to sleep."
+    },
+    {
+        id: "614",
+        title: "Prayers for Children: Protection from 'Child Snatching' or Violance",
+        categories: "Spiritual Warfare, Children, Protection",
+        book: "Spiritual Warfare Prayers",
+        page: "15",
+        description: "A prayer to pray of protection over your children's safety."
+    },
+    {
+        id: "615",
+        title: "Prayers for Children: Unwholesome Relationships",
+        categories: "Spiritual Warfare, Children, Relationships, Friendship",
+        book: "Spiritual Warfare Prayers",
+        page: "16",
+        description: "A prayer to pray over your children's relationships."
+    },
+    {
+        id: "616",
+        title: "Prayers for Children: Dtrugs and Other Intoxicants",
+        categories: "Spiritual Warfare, Children, Protection, Addiction",
+        book: "Spiritual Warfare Prayers",
+        page: "16",
+        description: "A prayer to pray over your children for protection from drugs and alcohol."
+    },
+    {
+        id: "617",
+        title: "Prayers for Children: Sexual Perversion Tendencies",
+        categories: "Spiritual Warfare, Children, Sexuality",
+        book: "Spiritual Warfare Prayers",
+        page: "17",
+        description: "A prayer to pray over your children for protection over sexual perversion."
+    },
+    {
+        id: "618",
+        title: "Prayers for Children: Lack of Purpose and Goals",
+        categories: "Spiritual Warfare, Children, Purpose",
+        book: "Spiritual Warfare Prayers",
+        page: "17",
+        description: "A prayer to pray over your children that they would find purpose in the world for God's glory."
+    },
     
     
     
