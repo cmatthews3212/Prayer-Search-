@@ -394,7 +394,7 @@ const prayerData = [
     {
         id: "51",
         title: "A Liturgy for a Sick Day",
-        categories: "Sick, Health",
+        categories: "Sickness, Health",
         book: "Every Moment Holy: Volume I",
         page: "136",
         description: "A prayer to pray when taking a sick day."
@@ -1802,7 +1802,7 @@ const prayerData = [
     {
         id: "227",
         title: "Anxious",
-        categories: "Fear, Anxiety, Help",
+        categories: "Fear, Anxiety, Help, Mental Health",
         book: "Prayers of Rest",
         page: "146",
         description: "A prayer for when you feel anxious."
@@ -2106,7 +2106,7 @@ const prayerData = [
     {
         id: "265",
         title: "Those Who Are Sick",
-        categories: "Suffering, Sickness, Healing",
+        categories: "Suffering, Sickness, Healing, Health",
         book: "Prayers of Rest",
         page: "186",
         description: "A prayer for those who are sick."
@@ -4558,6 +4558,206 @@ const prayerData = [
         book: "The Power of a Praying Woman",
         page: "76",
         description: "A prayer to pray for a woman to pray that she would have the wisdom to walk in the way of Christ."
+    },
+    {
+        id: "574",
+        title: "Lord, Deliver Me from Every Evil Work",
+        categories: "Praying as a Woman, Protection, Deliverance, Spiritual Warfare",
+        book: "The Power of a Praying Woman",
+        page: "78",
+        description: "A prayer to pray for a woman to pray for the deliverance of evil."
+    },
+    {
+        id: "575",
+        title: "Lord, Deliver Me from Every Evil Work",
+        categories: "Praying as a Woman, Protection, Deliverance, Spiritual Warfare",
+        book: "The Power of a Praying Woman",
+        page: "80",
+        description: "A prayer to pray for a woman to pray for the deliverance of a specific thing separating her from God."
+    },
+    {
+        id: "576",
+        title: "Lord, Set Me Free from Negative Emotions",
+        categories: "Praying as a Woman, Mental Health",
+        book: "The Power of a Praying Woman",
+        page: "82",
+        description: "A prayer to pray for a woman to pray to set her mind on the things of Christ."
+    },
+    {
+        id: "577",
+        title: "Lord, Set Me Free from Negative Emotions",
+        categories: "Praying as a Woman, Mental Health, Body Image, Self-Image",
+        book: "The Power of a Praying Woman",
+        page: "84",
+        description: "A prayer to pray for a woman to pray to bee freed from insecurity and low self-image."
+    },
+    {
+        id: "578",
+        title: "Lord, Comfort Me in Times of Trouble",
+        categories: "Praying as a Woman, Comfort, Struggle",
+        book: "The Power of a Praying Woman",
+        page: "86",
+        description: "A prayer to pray for a woman to pray to seek comfort in Christ."
+    },
+    {
+        id: "579",
+        title: "Lord, Comfort Me in Times of Trouble",
+        categories: "Praying as a Woman, Comfort, Struggle",
+        book: "The Power of a Praying Woman",
+        page: "88",
+        description: "A prayer to pray for a woman to pray to be filled with God's truth."
+    },
+    {
+        id: "580",
+        title: "Lord, Enable Me to Resist the Temptation to Sin",
+        categories: "Praying as a Woman, Tempation, Repentance",
+        book: "The Power of a Praying Woman",
+        page: "90",
+        description: "A prayer to pray for a woman to pray for God to lead her away from temptation."
+    },
+    {
+        id: "581",
+        title: "Lord, Enable Me to Resist the Temptation to Sin",
+        categories: "Praying as a Woman, Tempation, Repentance",
+        book: "The Power of a Praying Woman",
+        page: "92",
+        description: "A prayer to pray for a woman to pray that God would protect her from temptation."
+    },
+    {
+        id: "582",
+        title: "Lord, Heal Me and Help Me Care for My Body",
+        categories: "Praying as a Woman, Health, Healing, Sickness",
+        book: "The Power of a Praying Woman",
+        page: "94",
+        description: "A prayer to pray for a woman to pray for healing over her body."
+    },
+    {
+        id: "583",
+        title: "Lord, Heal Me and Help Me Care for My Body",
+        categories: "Praying as a Woman, Health, Healing, Sickness, Discernment, Wisdom, Medical",
+        book: "The Power of a Praying Woman",
+        page: "96",
+        description: "A prayer to pray for a woman to pray for wisdom and discernment in how to find proper healing over ailments."
+    },
+    {
+        id: "584",
+        title: "Lord, Free Me from Ungodly Fear",
+        categories: "Praying as a Woman, Fear, Anxiety, Mental Health, Medical",
+        book: "The Power of a Praying Woman",
+        page: "98",
+        description: "A prayer to pray for a woman to pray for encouragement in times of fear."
+    },
+    {
+        id: "585",
+        title: "Lord, Free Me from Ungodly Fear",
+        categories: "Praying as a Woman, Fear, Anxiety, Mental Health",
+        book: "The Power of a Praying Woman",
+        page: "100",
+        description: "A prayer to pray for a woman to pray for God to remove the spirit of fear in her."
+    },
+    {
+        id: "586",
+        title: "Lord, Use Me to Touch the Lives of Others",
+        categories: "Praying as a Woman, Service",
+        book: "The Power of a Praying Woman",
+        page: "102",
+        description: "A prayer to pray for a woman to pray for God to show her how she can serve others."
+    },
+    {
+        id: "587",
+        title: "Lord, Use Me to Touch the Lives of Others",
+        categories: "Praying as a Woman, Service, Today",
+        book: "The Power of a Praying Woman",
+        page: "104",
+        description: "A prayer to pray for a woman to pray ask how God can use her on this day."
+    },
+    {
+        id: "588",
+        title: "Lord, Train Me to Speak Only Words That Bring Life",
+        categories: "Praying as a Woman, Gossip, Words, Speaking",
+        book: "The Power of a Praying Woman",
+        page: "106",
+        description: "A prayer to pray for a woman to pray that she would only speak words that build up."
+    },
+    {
+        id: "590",
+        title: "Lord, Train Me to Speak Only Words That Bring Life",
+        categories: "Praying as a Woman, Words, Speaking, Worship",
+        book: "The Power of a Praying Woman",
+        page: "108",
+        description: "A prayer to pray for a woman to pray that the Holy Spirit would give her the words to say when worshipping God."
+    },
+    {
+        id: "591",
+        title: "Lord, Transform Me into a Woman of Mountain-Moving Faith",
+        categories: "Praying as a Woman, Faith",
+        book: "The Power of a Praying Woman",
+        page: "110",
+        description: "A prayer to pray for a woman to pray that God would increase her faith."
+    },
+    {
+        id: "592",
+        title: "Lord, Transform Me into a Woman of Mountain-Moving Faith",
+        categories: "Praying as a Woman, Faith, Confession",
+        book: "The Power of a Praying Woman",
+        page: "112",
+        description: "A prayer to pray for a woman to confess any doubt in her heart."
+    },
+    {
+        id: "593",
+        title: "Lord, Change Me into the Likeness of Christ",
+        categories: "Praying as a Woman, Christ-Likeness, Image-Bearer",
+        book: "The Power of a Praying Woman",
+        page: "114",
+        description: "A prayer to pray for a woman to pray for the Holy Spirit to change her heart."
+    },
+    {
+        id: "594",
+        title: "Lord, Change Me into the Likeness of Christ",
+        categories: "Praying as a Woman, Christ-Likeness, Image-Bearer",
+        book: "The Power of a Praying Woman",
+        page: "116",
+        description: "A prayer to pray for a woman to pray for God to teach her to love others the way He does."
+    },
+    {
+        id: "595",
+        title: "Lord, Remind Me That My Greatest Need Is Always for More of You",
+        categories: "Praying as a Woman, Presence",
+        book: "The Power of a Praying Woman",
+        page: "118",
+        description: "A prayer to pray for a woman to pray that she would never forget her need for Christ."
+    },
+    {
+        id: "596",
+        title: "Lord, Lift Me out of My Past",
+        categories: "Praying as a Woman, Regrets",
+        book: "The Power of a Praying Woman",
+        page: "120",
+        description: "A prayer to pray for a woman to pray that she would let go of the things of the past."
+    },
+    {
+        id: "597",
+        title: "Lord, Lift Me out of My Past",
+        categories: "Praying as a Woman, Forgiveness",
+        book: "The Power of a Praying Woman",
+        page: "122",
+        description: "A prayer to pray for a woman to pray that she would forgive those from her past."
+    },
+    {
+        id: "598",
+        title: "Lord, Lead Me into the Future You Have for Me",
+        categories: "Praying as a Woman, Future, God's Will",
+        book: "The Power of a Praying Woman",
+        page: "124",
+        description: "A prayer to pray for a woman to pray that her plans would be within the will of God."
+    },
+    {
+        id: "599",
+        title: "Lord, Lead Me into the Future You Have for Me",
+        categories: "Praying as a Woman, Future, Service, Ministry",
+        book: "The Power of a Praying Woman",
+        page: "124",
+        description: "A prayer to pray for a woman to pray that the Holy Spirit would guide her in ministry."
     },
     
     
